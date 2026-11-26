@@ -1,0 +1,7 @@
+.git
+__pycache__/
+*.pyc
+results/*
+demo-app/node_modules
+app.apk
+app-ios.tgz
